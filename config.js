@@ -1,6 +1,6 @@
 var config = {
-    accessToken: 'pk.eyJ1IjoiYmx1ZWNvbmR1aXQtcmFhbmFuIiwiYSI6ImNrcDQ1dmI5cTA3YWgyeHQ4eTgya3RkbmMifQ.Yy7t6IfU4KV2QTGhl91PZA',
-    style: 'mapbox://styles/blueconduit-raanan/cljptmguy00w801pd21lihswy',
+    accessToken: 'pk.eyJ1IjoicmFhbmFuLWciLCJhIjoiY2pyMWF5YzM4MDBseTQzcXEyZ3gxN2xvOSJ9.Jm_gHZ3zcJh2xygKeOdr5w',
+    style: 'mapbox://styles/raanan-g/cmdw8g8an002i01qoctcv6ckc',
     alignment: 'left',
     toptitle: 'Story Map by Raanan Gurewitsch | July 2023',
     title: "Great Trees of New York Map",
