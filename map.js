@@ -198,9 +198,9 @@ map.on("load", function () {
             response.element.classList.add('active');
             map.flyTo(chapter.location);
             
-            var marker = new mapboxgl.Marker({color:'#006400',scale:2})
-                .setLngLat(chapter.location.center)
-                .addTo(map);
+            // var marker = new mapboxgl.Marker({color:'#006400',scale:2})
+            //     .setLngLat(chapter.location.center)
+            //     .addTo(map);
             
         })
         .onStepExit(response => {
